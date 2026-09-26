@@ -1,0 +1,1 @@
+Warren Township, Trumbull County, Ohio. This is the official GitHub for Township tech projects. We're rebuilding the public site and developing a zoning and property information portal. Projects are in progress. See each repo for status and docs.
